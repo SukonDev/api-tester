@@ -1,0 +1,12 @@
+[
+  {
+    "path": "news.json",
+    "url": "https://raw.githubusercontent.com/SukonDev/api-tester/refs/heads/main/news.json",
+    "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
+  },
+  {
+    "path": "models/gta3.img",
+    "url": "/files/models/gta3.img",
+    "sha256": "abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789"
+  }
+]
