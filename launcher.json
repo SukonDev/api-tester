@@ -1,0 +1,8 @@
+{
+  "version": "0.1.1",
+  "url": "https://your-host.com/updates/synth-launcher-0.1.1-setup.exe",
+  "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+  "filename": "synth-launcher-0.1.1-setup.exe",
+  "notes": "ปรับปรุงระบบดาวน์โหลดและแพตช์",
+  "required": false
+}
