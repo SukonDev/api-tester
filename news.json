@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "serverId": 1,
+    "img": "/tauri.svg",
+    "title": "Downtown lighting overhaul is now live",
+    "textdection": "Night scenes now feel sharper with neon bounce, softer fog, and cleaner reflections across the main district.",
+    "tag": "Update"
+  },
+  {
+    "id": 2,
+    "serverId": 2,
+    "img": "/vite.svg",
+    "title": "Street circuit weekend opens on Friday",
+    "textdection": "Jump into limited-time races, unlock custom liveries, and earn extra sync rewards during the launch window.",
+    "tag": "Event"
+  },
+  {
+    "id": 3,
+    "img": "/tauri.svg",
+    "title": "Global launcher maintenance notice",
+    "textdection": "This announcement is shared across every server because it affects the launcher itself rather than a single server.",
+    "tag": "Notice"
+  }
+]
