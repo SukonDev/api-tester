@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nameServer": "SA-MP 0.3.7",
+    "ipServer": "gta-irz.com",
+    "port": 7777,
+    "maxPlayer": 100,
+    "logoServer": "/logogta-irz.png",
+    "backgrounds": {
+      "home": "/backgoundmain.jpg",
+      "news": "/backgoundmain.jpg"
+    },
+    "textDescription": "Connect directly to this server, view its latest updates, and launch with the current recommended client setup."
+  },
+  {
+    "id": 2,
+    "nameServer": "SA-MP 0.3.7",
+    "ipServer": "168.222.20.77",
+    "port": 7777,
+    "maxPlayer": 100,
+    "logoServer": "/logont.png",
+    "backgrounds": {
+      "home": "./src/assets/backgoundmain.jpg",
+      "news": "./src/assets/backgoundmain.jpg"
+    },
+    "textDescription": "Connect directly to this server, view its latest updates, and launch with the current recommended client setup."
+  }
+]
