@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Metis SA Official",
+    "description": "เซิร์ฟเวอร์หลักสำหรับทดสอบระบบ มีระบบการเล่นที่สมจริงและฟีเจอร์ใหม่ล่าสุด",
+    "ip": "103.253.73.11",
+    "port": 7777,
+    "logo": "https://img5.pic.in.th/file/secure-sv1/logo_metis.png",
+    "background": "https://img5.pic.in.th/file/secure-sv1/bg_ls_01.jpg"
+  }
+]
