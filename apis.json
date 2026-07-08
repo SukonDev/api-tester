@@ -10,7 +10,7 @@
       },
       {
         "name": "test_data.txt",
-        "url": "https://raw.githubusercontent.com/SukonDev/api-tester/refs/heads/main/files/test_data.txt",
+        "url": "https://raw.githubusercontent.com/SukonDev/api-tester/refs/heads/main/test_data.txt",
         "path": "data/test_data.txt",
         "md5": "5d41402abc4b2a76b9719d911017c592",
         "size": 5
