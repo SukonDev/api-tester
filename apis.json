@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
-    "files": [
-      {
-        "name": "libsamp.so",
-        "url": "https://raw.githubusercontent.com/SukonDev/api-tester/refs/heads/main/files/libsamp.so",
-        "path": "libs/libsamp.so",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e",
-        "size": 10240
-      },
-      {
-        "name": "test_data.txt",
-        "url": "https://raw.githubusercontent.com/SukonDev/api-tester/refs/heads/main/test_data.txt",
-        "path": "data/test_data.txt",
-        "md5": "5d41402abc4b2a76b9719d911017c592",
-        "size": 5
-      }
-    ]
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "test_hello.txt",
+      "url": "https://raw.githubusercontent.com/SukonDev/api-tester/main/files/test_hello.txt",
+      "path": "test/test_hello.txt",
+      "md5": "5d41402abc4b2a76b9719d911017c592",
+      "size": 5
+    },
+    {
+      "name": "test_world.txt",
+      "url": "https://raw.githubusercontent.com/SukonDev/api-tester/main/files/test_world.txt",
+      "path": "test/test_world.txt",
+      "md5": "7d793037a0760186574b0282f2f435e7",
+      "size": 5
+    }
+  ]
 }
