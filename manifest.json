@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "test_hello.txt",
+    "filedownload": "https://raw.githubusercontent.com/SukonDev/api-tester/main/files/test_hello.txt",
+    "path": "test_hello.txt",
+    "hash": "5d41402abc4b2a76b9719d911017c592"
+  },
+  {
+    "filename": "test_world.txt",
+    "filedownload": "https://raw.githubusercontent.com/SukonDev/api-tester/main/files/test_world.txt",
+    "path": "test_world.txt",
+    "hash": "7d793037a0760186574b0282f2f435e7"
+  }
+]
